@@ -18,6 +18,7 @@ For this project some movie-related data was provided from :
 * Explore foreign key relationships between datasets to join tables
 * Use `pandasql.sqldf` to use SQL to join dataframes
 * Use `pandas` to clean columns, convert incorrect column types, add new calculated columns
+* Use `seaborn` to visualize data
 
 # Questions answered
 
